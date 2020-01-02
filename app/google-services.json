@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121662415449",
+    "firebase_url": "https://boipremi-b301a.firebaseio.com",
+    "project_id": "boipremi-b301a",
+    "storage_bucket": "boipremi-b301a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121662415449:android:d3423a3f6226c41e",
+        "android_client_info": {
+          "package_name": "com.example.boipremi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121662415449-9o7gup153vaqpu3lqierb8i65lc1di1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boipremi",
+            "certificate_hash": "9d52e3dcefb08f3c8f1ca21552a3ae97443b1942"
+          }
+        },
+        {
+          "client_id": "121662415449-n0ksdk972sbu9sehvvkh0lckfuel6k3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ960m9RT7HxtFEjFnp1dPiTndwDrD-ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121662415449-n0ksdk972sbu9sehvvkh0lckfuel6k3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
